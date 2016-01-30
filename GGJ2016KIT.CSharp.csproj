@@ -63,8 +63,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Collider.cs" />
+    <Compile Include="Assets\Scripts\Count.cs" />
     <Compile Include="Assets\Scripts\Fall.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
+    <Compile Include="Assets\Scripts\TestGauge.cs" />
+    <Compile Include="Assets\Scripts\destroy.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
